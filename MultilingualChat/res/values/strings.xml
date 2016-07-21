@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, LoginActivity!</string>
+    <string name="app_name">MultilingualChat</string>
+    <string name="title_activity_main_chat">MultilingualChat</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="planets_array">
+        <item>Home</item>
+        <item>Contacts</item>
+        <item>Messenger</item>
+        <item>About</item>
+        <item>Logout</item>
+    </string-array>
+    <string-array name="languages">
+        <item>Default</item>
+        <item>English</item>
+        <item>Vietnamese</item>
+        <item>Russian</item>
+        <item>Arabic</item>
+        <item>Bulgarian</item>
+        <item>Catalan</item>
+        <item>Chinese_simplified</item>
+        <item>Chinese_traditional</item>
+        <item>Czech</item>
+        <item>Danish</item>
+        <item>Dutch</item>
+        <item>Estonian</item>
+        <item>Finnish</item>
+        <item>French</item>
+        <item>German</item>
+        <item>Greek</item>
+        <item>Haitian_creole</item>
+        <item>Hebrew</item>
+        <item>Hindi</item>
+        <item>Hmong_daw</item>
+        <item>Hungarian</item>
+        <item>Indonesian</item>
+        <item>Italian</item>
+        <item>Japanese</item>
+        <item>Korean</item>
+        <item>Latvian</item>
+        <item>Lithuanian</item>
+        <item>Norwegian</item>
+        <item>Polish</item>
+        <item>Portuguese</item>
+        <item>Romanian</item>
+        <item>Slovak</item>
+        <item>Slovenian</item>
+        <item>Spanish</item>
+        <item>Swedish</item>
+        <item>Thai</item>
+        <item>Turkish</item>
+        <item>Ukrainian</item>
+        <item>Malay</item>
+        <item>Persian</item>
+        <item>Urdu</item>
+    </string-array>
+
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+
+</resources>
